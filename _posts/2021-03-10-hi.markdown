@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Introduction"
+date:   2021-03-10 19:22:00 +0000
+categories: introduction
+---
+Hi! This is my blog for things. I'll announce brand new projects and talk about stuff. See you in the next one!
