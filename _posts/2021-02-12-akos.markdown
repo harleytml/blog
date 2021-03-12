@@ -1,0 +1,7 @@
+---
+layout: post
+title: "AkOS Development Megathread"
+date: 2021-03-12 20:42:00 +0000
+categories: projects
+---
+Hi! THis is the Megathread for the AkOS operating system. THis will be updated every so often when there are new updates.
